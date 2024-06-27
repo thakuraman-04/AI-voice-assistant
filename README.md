@@ -9,6 +9,7 @@ SpeechRecognition: Speech-to-text conversion.
 PyAutoGUI: Automation of GUI interactions.
 OpenAI GPT-3.5-turbo: Natural language processing and AI responses.
 WebBrowser & OS Modules: For web navigation and system operations.
+
 Key Features:
 
 Voice Commands: Execute web searches, control browser tabs, and open applications.
