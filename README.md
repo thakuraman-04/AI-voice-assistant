@@ -4,15 +4,23 @@ Developed a comprehensive voice-activated AI assistant named Jarvis, utilizing P
 Technologies Used:
 
 Python: Core programming language for development.
+
 pyttsx3: Text-to-speech conversion.
+
 SpeechRecognition: Speech-to-text conversion.
+
 PyAutoGUI: Automation of GUI interactions.
+
 OpenAI GPT-3.5-turbo: Natural language processing and AI responses.
+
 WebBrowser & OS Modules: For web navigation and system operations.
 
 Key Features:
 
 Voice Commands: Execute web searches, control browser tabs, and open applications.
+
 AI Interaction: Generate responses using OpenAI's language model.
+
 Media Control: Play music and report the current time.
+
 GUI Automation: Manage browser windows and perform searches with PyAutoGUI.
